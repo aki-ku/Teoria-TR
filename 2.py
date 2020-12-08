@@ -1,0 +1,2 @@
+dada = input ()
+print(dada)
