@@ -188,3 +188,12 @@ elif edad < 0:
 else:
  print("Major d'edat")
 ```
+
+## Funció
+Fer una cosa específica i ens divideix el nostre programa en parts més petites i quan creix el programa les funcions són més ordenades.
+Com veiem el codi 20.py
+```python3
+def nom(name):
+ print("Hola, " + name + ".)
+nom('Paul')
+```
